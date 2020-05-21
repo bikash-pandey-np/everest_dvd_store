@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "everest_dvd_store", "everest_dvd_store\everest_dvd_store.csproj", "{43486010-EB85-4456-8602-3302D448A1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43486010-EB85-4456-8602-3302D448A1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43486010-EB85-4456-8602-3302D448A1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43486010-EB85-4456-8602-3302D448A1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43486010-EB85-4456-8602-3302D448A1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25DA6B19-0FA7-4308-A067-FB05068A3662}
+	EndGlobalSection
+EndGlobal
